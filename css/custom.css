@@ -2365,10 +2365,9 @@ li > img.image,
 li > p > img.image,
 .ph.uicontrol > img.image,
 .itemgroup.info > img.image,
-td > img.image {
+td > img.image,
+p.p > img {
   vertical-align: inherit;
-  /* max-height: 25px; */
-  /* padding-bottom: 3px; */
 }
 
 .readmoreBtn {
